@@ -15,9 +15,14 @@
 
 ![학창시절 공부 성과](resource/school.png)
 
+### 🎞️ 발표스터디 발표 슬라이드 쇼
+
+**🔗 슬라이드 쉐어 : https://www.slideshare.net/fromitive/presentations**
+
 ### 🎉 케이실드 주니어 학업 우수상과 인증서
 
 ![Alt text](resource/k-shield.png)
+
 
 [🔙 목차로 돌아가기](https://github.com/fromitive/woowahan-tech#%EB%AA%A9%EC%B0%A8)
 
