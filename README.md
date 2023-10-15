@@ -11,15 +11,15 @@
 
 ## 📚 1. 효과적인 학습 방식과 경험
 
-### 🎉 학창시절 노력한 최종 결과물
+### 🎉 1-1. 학창시절 노력한 최종 결과물
 
 ![학창시절 공부 성과](resource/school.png)
 
-### 🎞️ 발표스터디 발표 슬라이드 쇼
+### 🎞️ 1-2. 발표스터디 발표 슬라이드 쇼
 
 **🔗 슬라이드 쉐어 : https://www.slideshare.net/fromitive/presentations**
 
-### 🎉 케이실드 주니어 학업 우수상과 인증서
+### 🎉 1-3. 케이쉴드 주니어 학업 우수상과 인증서
 
 ![Alt text](resource/k-shield.png)
 
@@ -30,7 +30,7 @@
 
 ## 💻 2. 성장 중 겪은 실패와 극복
 
-### 첨부 방식으로 변경한 코드
+### 2-1. 첨부 방식으로 변경한 코드
 
 **🔗 레포지토리 : https://github.com/fromitive/news-issuer**
 ``` python
@@ -63,7 +63,7 @@ def setContent(self, contentsDir):
 > [!IMPORTANT]
 > 피싱메일 시스템은 회사 자산이어서 이를 응용한 보안 뉴스레터 발송 시스템으로 증적을 대체합니다 🙏
 
-### 🎬 보안 뉴스레터 발송 시스템 시연 영상 (영상 길이 - 1분 50초)
+### 2-2. 🎬 보안 뉴스레터 발송 시스템 시연 영상 (영상 길이 - 1분 50초)
 
 **시간이 없으시면 1:16 부터 보시면 됩니다! 감사합니다!**
 
@@ -76,7 +76,7 @@ def setContent(self, contentsDir):
 ## 🚣 3. 오랜 시간 몰입했던 경험 그리고 도전
 
 
-### 🎬 인프라 취약점 진단 자동화 툴 시연 영상 (영상 길이 - 6분)
+### 3-1. 🎬 인프라 취약점 진단 자동화 툴 시연 영상 (영상 길이 - 6분)
 
 **시간이 없으시면 4:00 부터 보시면 됩니다! 감사합니다!**
 
@@ -92,7 +92,7 @@ def setContent(self, contentsDir):
 
 **🔗 일기 : https://fromitive.github.io/fromitive-diary/**
 
-### 🎬 토이프로젝트 - 백테스팅 툴 (영상 길이 - 2분 34초)
+### 4-1. 🎬 토이프로젝트 - 백테스팅 툴 (영상 길이 - 2분 34초)
 
 **🔗 레포지토리 : https://github.com/fromitive/news-issuer**
 
@@ -102,6 +102,6 @@ def setContent(self, contentsDir):
 
 ---
 
-## End of Document
+## 🏁 End of Document
 
 긴 글 읽어주시고 제 자신을 돌아 볼 기회를 주셔서 감사합니다🙇🏻‍♂️
