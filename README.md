@@ -7,7 +7,7 @@
 
 ![학창시절 공부 성과](resource/school.png)
 
-### 🎉 케이실드 주니어 학업 우수상과 인서서
+### 🎉 케이실드 주니어 학업 우수상과 인증서
 
 ![Alt text](resource/k-shield.png)
 
@@ -79,5 +79,7 @@ def setContent(self, contentsDir):
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/8__cC-urP7A/0.jpg)](https://youtu.be/8__cC-urP7A)
 
 ---
+
+## End of Document
 
 긴 글 읽어주시고 제 자신을 돌아 볼 기회를 주셔서 감사합니다🙇🏻‍♂️
