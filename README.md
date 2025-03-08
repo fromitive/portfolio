@@ -6,12 +6,11 @@
 주어진 문제를 깊이 고민하고, **동료들과 더 나은 해결책을 찾아가는 과정**을 즐깁니다.  
 **"이무송이 만든 서비스는 안전하다"** 는 신뢰를 얻는 개발자가 되겠습니다.
 
-## 경력 사항
+## 💼 경력 사항
 
 ### 오이주식회사
 
 * 기간 : 2019.12.16 ~ 2023.07.01
-
 * 부서 : 침해사고대응본부(정보보안 컨설팅)
 
 **주요 업무** 
@@ -22,6 +21,7 @@
 * 정보보안 인식제고 훈련 기획, 시스템 구축
 * 사내 인프라 구축 및 유지보수 
 
+#
 
 ### 경력 기술
 
@@ -29,17 +29,19 @@
 
 * 기간 : 2019.12 ~ 2023.07
 * 성과 : 취약점 자동 진단 도구를 단독 개발하여 **팀 생산성 300% 증가**
-* 세부 업무
 
-    - 보고서 작성을 자동화 하여 엑셀 수작업 최소화
-    - 별도의 계정이 필요하지 않은 서버, Web/WAS, Docker 스크립트를 통합하여 운영 담당자와의 **의사소통 효율 300% 증가**
-    - 자동화 도구를 확장 가능하도록 설계(설정 값 추출, 진단 결과 출력 기능 분리)하여 새로운 시스템 진단 시 유지보수를 최소화할 수 있도록 리펙터링
-    - 최초 개발 이후 환경이 다른 20곳 이상의 고객사를 거쳐 확장, 기능, 오류 등 유지보수 및 개선
-    - 진단 도구 사용법 사내 교육 
+* 세부 업무
+    * 보고서 작성을 자동화 하여 엑셀 수작업 최소화
+    * 별도의 계정이 필요하지 않은 서버, Web/WAS, Docker 스크립트를 통합하여 운영 담당자와의 **의사소통 효율 300% 증가**
+    * 자동화 도구를 확장 가능하도록 설계(설정 값 추출, 진단 결과 출력 기능 분리)하여 새로운 시스템 진단 시 유지보수를 최소화할 수 있도록 리펙터링
+    * 최초 개발 이후 환경이 다른 20곳 이상의 고객사를 거쳐 확장, 기능, 오류 등 유지보수 및 개선
+    * 진단 도구 사용법 사내 교육 
 
 * 참고 자료 (Youtube)
+  
+    <a href="https://youtu.be/fCxAIZc_xj8"><img src="http://img.youtube.com/vi/fCxAIZc_xj8/0.jpg" width="400"></a>
 
-    [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/fCxAIZc_xj8/0.jpg)](https://youtu.be/fCxAIZc_xj8)
+<br>
 
 **사내 인프라 취약점 진단 테스트 및 형상관리 시스템 구축**
 
@@ -50,6 +52,8 @@
     - 가상화 테스트 환경(proxmox) 및 SSL/VPN(pf-Sense) 구축하여 팀원들의 환경 구축 시간 단축
     - 스크립트 변경 발생 시 GitLab CI/CD를 이용해 각 버전 별 환경에서 배포 전 자동 테스트
     - 기존 이메일로 배포하여 최신화가 유지되지 않았던 스크립트 배포 방식을 GitLab을 통해 최신 버전으로 공유할 수 있도록 개선 
+
+<br>
 
 **사내 보안 뉴스레터 제작 및 발송**
 
@@ -64,16 +68,17 @@
 
 * 참고 자료 (Youtube)
 
-    [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/EqdP1rJLXiI/0.jpg)](https://youtu.be/EqdP1rJLXiI)
+    <a href="https://youtu.be/EqdP1rJLXiI"><img src="http://img.youtube.com/vi/EqdP1rJLXiI/0.jpg" width="400"></a>
 
 * Github
 
     ![News Crawler](https://github-readme-stats.vercel.app/api/pin/?username=fromitive&repo=news-crawler)
     
     ![News Issuer](https://github-readme-stats.vercel.app/api/pin/?username=fromitive&repo=news-issuer)
- 
 
-## 교육 및 외부 활동
+<br>
+
+## 📚 교육 및 외부 활동
 
 ### 우아한테크코스
 
@@ -90,7 +95,9 @@
 
 **테크 세미나 발표** 
 
-   [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/1S6kS1dAlkM/0.jpg)](https://youtu.be/1S6kS1dAlkM)
+<a href="https://youtu.be/1S6kS1dAlkM"><img src="http://img.youtube.com/vi/1S6kS1dAlkM/0.jpg" width="400"></a>
+
+#
 
 ### K-Shield Jr 2기 보안사고 분석대응
 
@@ -119,21 +126,27 @@
     - [DLL Search Order Hijacking](https://www.slideshare.net/slideshow/dll-search-order-hijacking)  
     - [Reverse Engineering](https://www.slideshare.net/slideshow/reverse-engineering-20150209/170490302)
 
-## 수상 내역
+<br>
+
+## 🏆 수상 내역
 
 ### 버그바운티 포상 2회
 
 **Reflect XSS**
 
-<img src="resource/bounty1.png" width="800">
+<img src="resource/bounty1.png" width="500">
 
 **회원 개인정보 유출**
 
-<img src="resource/bounty2.png" width="800">
+<img src="resource/bounty2.png" width="500">
+
+#
 
 ### K-Shield Jr 2기 학업 최우수 및 인증서 수여
 
 ![케이실드 주니어](resource/k-shield.png)
+
+#
 
 ### 성적 우수 졸업 및 장학금 수여
 
