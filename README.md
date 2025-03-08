@@ -131,10 +131,10 @@
 
 <img src="resource/bounty2.png" width="800">
 
-#### K-Shield Jr 2기 학업 최우수 및 인증서 수여
+### K-Shield Jr 2기 학업 최우수 및 인증서 수여
 
 ![케이실드 주니어](resource/k-shield.png)
 
-#### 성적 우수 졸업 및 장학금 수여
+### 성적 우수 졸업 및 장학금 수여
 
 ![학창시절 공부 성과](resource/school.png)
