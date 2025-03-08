@@ -119,9 +119,9 @@
     - [DLL Search Order Hijacking](https://www.slideshare.net/slideshow/dll-search-order-hijacking)  
     - [Reverse Engineering](https://www.slideshare.net/slideshow/reverse-engineering-20150209/170490302)
 
-### 수상 내역
+## 수상 내역
 
-#### 버그바운티 포상 2회
+### 버그바운티 포상 2회
 
 **Reflect XSS**
 
