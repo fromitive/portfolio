@@ -37,6 +37,9 @@
     * 최초 개발 이후 환경이 다른 20곳 이상의 고객사를 거쳐 확장, 기능, 오류 등 유지보수 및 개선
     * 진단 도구 사용법 사내 교육 
 
+* 사용 기술 : ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Regular Expression](https://img.shields.io/badge/RegEx-663399?style=flat&logo=regex&logoColor=white) ![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat&logo=windows-terminal&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+
+
 * 참고 자료 (Youtube)
   
     <a href="https://youtu.be/fCxAIZc_xj8"><img src="http://img.youtube.com/vi/fCxAIZc_xj8/0.jpg" width="400"></a>
@@ -53,6 +56,8 @@
     - 스크립트 변경 발생 시 GitLab CI/CD를 이용해 각 버전 별 환경에서 배포 전 자동 테스트
     - 기존 이메일로 배포하여 최신화가 유지되지 않았던 스크립트 배포 방식을 GitLab을 통해 최신 버전으로 공유할 수 있도록 개선 
 
+* 사용 기술 : ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white) ![pfSense](https://img.shields.io/badge/pfSense-003366?style=flat&logo=pfsense&logoColor=white) ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FCA121?style=flat&logo=gitlab&logoColor=white)
+
 <br>
 
 **사내 보안 뉴스레터 제작 및 발송**
@@ -65,6 +70,8 @@
     - 수동 크롤링 방식을 개선하기 위해 GitLab CI/CD를 활용하여 오전 5시에 보안 뉴스 자동 크롤링 하도록 변경
     - GitLab Pages 기능을 이용하여 뉴스를 선택할 수 있는 웹 페이지를 개발한 후 이메일을 전달하는 시스템을 개발하여 **뉴스 메일 배포시간 70% 단축(10분 → 3분)**
     - Outlook을 사용할 때 발생할 수 있는 이미지 깨짐 현상 해결
+
+* 사용 기술 : ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SMTP](https://img.shields.io/badge/SMTP-FF9900?style=flat&logo=gmail&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-20232A?style=flat&logo=python&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat&logo=python&logoColor=white)
 
 * 참고 자료 (Youtube)
 
