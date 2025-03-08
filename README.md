@@ -1,107 +1,135 @@
-# 우아한테크코스 6기 지원 포트폴리오
+## About
 
-## 목차
-> [📚 1. 효과적인 학습 방식과 경험](https://github.com/fromitive/woowahan-tech#-1-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8-%ED%95%99%EC%8A%B5-%EB%B0%A9%EC%8B%9D%EA%B3%BC-%EA%B2%BD%ED%97%98)
->
-> [💻 2. 성장 중 겪은 실패와 극복](https://github.com/fromitive/woowahan-tech#-2-%EC%84%B1%EC%9E%A5-%EC%A4%91-%EA%B2%AA%EC%9D%80-%EC%8B%A4%ED%8C%A8%EC%99%80-%EA%B7%B9%EB%B3%B5)
->
-> [🚣 3. 오랜 시간 몰입했던 경험 그리고 도전](https://github.com/fromitive/woowahan-tech#-3-%EC%98%A4%EB%9E%9C-%EC%8B%9C%EA%B0%84-%EB%AA%B0%EC%9E%85%ED%96%88%EB%8D%98-%EA%B2%BD%ED%97%98-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8F%84%EC%A0%84)
->
-> [💡 4. 원하는 프로그래머 모습](https://github.com/fromitive/woowahan-tech#-4-%EC%9B%90%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%AA%A8%EC%8A%B5)
+안녕하세요 **개발자 이무송**입니다.  
+**사용자가 믿고 안심할 수 있는 서비스**를 만드는 데 관심이 많습니다.
+보안과 확장성을 모두 고려한 개발을 지향하며, **안전한 서비스 개발은 개발자의 책임**이라 믿습니다.  
+주어진 문제를 깊이 고민하고, **동료들과 더 나은 해결책을 찾아가는 과정**을 즐깁니다.  
+**"이무송이 만든 서비스는 안전하다"** 는 신뢰를 얻는 개발자가 되겠습니다.
 
-## 📚 1. 효과적인 학습 방식과 경험
+## 경력 사항
 
-### 🎉 1-1. 학창시절 노력한 최종 결과물
+### 오이주식회사
+
+* 기간 : 2019.12.16 ~ 2023.07.01
+
+* 부서 : 침해사고대응본부(정보보안 컨설팅)
+
+**주요 업무** 
+
+* 정보시스템 취약점 진단
+* 주요정보통신기반시설, ISO27001, ISMS 인증컨설팅 정보시스템 취약점 진단 수행
+* 홈페이지, 모바일 앱, CS 어플리케이션 취약점 진단
+* 정보보안 인식제고 훈련 기획, 시스템 구축
+* 사내 인프라 구축 및 유지보수 
+
+
+#### 경력 기술
+
+**인프라(서버, Web/WAS, DBMS, 네트워크 장비, 정보보호시스템) 취약점 진단**
+
+* 기간 : 2019.12 ~ 2023.07
+* 성과 : 취약점 자동 진단 도구를 단독 개발하여 팀 생산성 300% 증가
+* 세부 업무
+
+    - 보고서 작성을 자동화 하여 엑셀 수작업 최소화
+    - 별도의 계정이 필요하지 않은 서버, Web/WAS, Docker 스크립트를 통합하여 운영 담당자와의 의사소통 효율 300% 증가
+    - 자동화 도구를 확장 가능하도록 설계(설정 값 추출, 진단 결과 출력 기능 분리)하여 새로운 시스템 진단 시 유지보수를 최소화할 수 있도록 리펙터링
+    - 최초 개발 이후 환경이 다른 20곳 이상의 고객사를 거쳐 확장, 기능, 오류 등 유지보수 및 개선
+    - 진단 도구 사용법 사내 교육 
+
+* 참고 자료 (Youtube)
+
+    [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/fCxAIZc_xj8/0.jpg)](https://youtu.be/fCxAIZc_xj8)
+
+**사내 인프라 취약점 진단 테스트 및 형상관리 시스템 구축**
+
+* 기간 : 2022.07 ~ 2023.07
+* 성과 : 프로젝트 투입 시 환경구축 시간 20% 단축, 스크립트 오류율 50% 감소
+* 세부 업무
+
+    - 가상화 테스트 환경(proxmox) 및 SSL/VPN(pf-Sense) 구축하여 팀원들의 환경 구축 시간 단축
+    - 스크립트 변경 발생 시 GitLab CI/CD를 이용해 각 버전 별 환경에서 배포 전 자동 테스트
+    - 기존 이메일로 배포하여 최신화가 유지되지 않았던 스크립트 배포 방식을 GitLab을 통해 최신 버전으로 공유할 수 있도록 개선 
+
+**사내 보안 뉴스레터 제작 및 발송**
+
+* 기간 : 2020.02 ~ 2023.01
+* 성과 : 최신 보안 이슈를 팀원들에게 빠르게 배포하여 최신 보안동향 파악에 기여
+* 세부 업무
+
+    - RSS Feed(구글 알리미, 보안뉴스, 데일리시큐), 네이버 검색 API를 이용해 뉴스 크롤링 시스템 개벌
+    - 수동 크롤링 방식을 개선하기 위해 GitLab CI/CD를 활용하여 오전 5시에 보안 뉴스 자동 크롤링 하도록 변경
+    - GitLab Pages 기능을 이용하여 뉴스를 선택할 수 있는 웹 페이지를 개발한 후 이메일을 전달하는 시스템을 개발하여 뉴스 메일 배포시간 70% 단축(10분 → 3분)
+    - Outlook을 사용할 때 발생할 수 있는 이미지 깨짐 현상 해결
+
+* 참고 자료 (Youtube)
+
+    [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/EqdP1rJLXiI/0.jpg)](https://youtu.be/EqdP1rJLXiI)
+
+* Github
+
+    ![News Crawler](https://github-readme-stats.vercel.app/api/pin/?username=fromitive&repo=news-crawler)
+    
+    ![News Issuer](https://github-readme-stats.vercel.app/api/pin/?username=fromitive&repo=news-issuer)
+ 
+
+## 교육 및 외부 활동
+
+### 우아한테크코스
+
+* 기간 : 2024.02 ~ 2024.11
+* 활동 내용 
+
+**웹 백엔드 프로젝트 수행**
+
+ - Java 17, Spring Boot3, JPA, Junit 5를 활용한 '총대마켓' 웹 어플리케이션 개발
+ - OAuth2.0, JWT을 활용하여 사용자 인증 인가 기능 구현
+ - AWS ALB, EC2 및 RDS를 활용하여 고가용성 서비스 인프라 설계, 구축
+ - 서비스 다운타임을 최소화 하기 위해 Github CI/CD를 활용하여 Blue & Green 무중단 배포 시스템 구축  
+ - swagger-ui, restdocs를 조합하여 테스트코드와 API 문서 일관성 유지
+
+**테크 세미나 발표** 
+
+   [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/1S6kS1dAlkM/0.jpg)](https://youtu.be/1S6kS1dAlkM)
+
+### K-Shield Jr 2기 보안사고 분석대응
+
+* 기간 : 2019.03 ~ 2019.06
+
+* 활동 내용  
+
+**보안 교육 및 실습 이수**
+
+- 시스템해킹, 웹 취약점 및 모의해킹, 리버스엔지니어링, 악성코드분석, 디지털 포렌식, 보안관제 시스템 구축 등 200시간의 보안 교육 이수  
+- 교육 과정에서 버퍼오버플로우 취약점을 비롯한 시스템해킹 사례들을 분석하며 시큐어 코딩과 안전한 서비스 개발의 중요성 인지  
+    - [해커스쿨 FTZ 풀이](https://www.slideshare.net/slideshow/ftz-170488794/170488794)  
+    - [Load of BufferOverflow 풀이](https://www.slideshare.net/fromitive/load-of-buffer-overflow)
+
+**보안 솔루션 프로젝트 수행**  
+
+- QR 코드 피싱 탐지 어플리케이션 **QR-Shield** 개발  
+    - QR 코드 스캔 시 악성 URL 여부 사전 탐지  
+    - [PPT 자료](https://www.slideshare.net/slideshow/project-of-kshieldopenseminar/172781161)  
+    - [Github 저장소](https://github.com/fromitive/QRpreviewer)
+
+**지식 공유 스터디 주최**  
+
+- 교육생 동기들과 ‘발표 스터디’를 개설해 세미나 형식으로 지식을 공유  
+- 발표와 토론을 통해 딥 다이브 학습 및 실무 능력 고도화  
+    - [DLL Search Order Hijacking](https://www.slideshare.net/slideshow/dll-search-order-hijacking)  
+    - [Reverse Engineering](https://www.slideshare.net/slideshow/reverse-engineering-20150209/170490302)
+
+### 수상 내역
+
+#### 버그바운티 포상
+
+![bounty](resource/bounty1.png)
+![bounty](resource/bounty2.png)
+
+#### K-Shield Jr 2기 학업 최우수 및 인증서 수여
+
+![케이실드 주니어](resource/k-shield.png)
+
+#### 성적 우수 졸업 및 장학금 수여
 
 ![학창시절 공부 성과](resource/school.png)
-
-### 🎞️ 1-2. 발표스터디 발표 슬라이드 쇼
-
-**🔗 슬라이드 쉐어 : https://www.slideshare.net/fromitive/presentations**
-
-### 🎉 1-3. 케이쉴드 주니어 학업 우수상과 인증서
-
-![Alt text](resource/k-shield.png)
-
-
-[🔙 목차로 돌아가기](https://github.com/fromitive/woowahan-tech#%EB%AA%A9%EC%B0%A8)
-
----
-
-## 💻 2. 성장 중 겪은 실패와 극복
-
-### 2-1. 첨부 방식으로 변경한 코드
-
-**🔗 레포지토리 : https://github.com/fromitive/news-issuer**
-``` python
-...
-## 파일 위치: mailsender/mailbuild.py 51line
-def setContent(self, contentsDir):
-    # 1. 크롤링한 html 파일을 읽어옵니다.
-    with open(os.path.join(contentsDir, "main.html"), "r", encoding="utf-8") as fcontent:  
-        content = fcontent.read()
-        soup = BeautifulSoup(content, features="html.parser")
-
-        # 2. img 테그의 첨부된 이메일 경로를 추출합니다.
-        imgTags = soup.select("img")
-        for img in imgTags:
-            srcBefore = img.attrs["src"]
-            htmlCid, attachCid = self._generateCid()
-
-            img.attrs["src"] = htmlCid
-
-            # 이미지를 메일에 첨부합니다.
-            with open(os.path.join(contentsDir, srcBefore), "rb") as fimgContent:
-                imgContent = fimgContent.read()
-                imgAttach = MIMEImage(imgContent)
-                imgAttach.add_header("Content-ID", attachCid)
-                self.ImgContents.append(imgAttach)
-        self.strMailContent = str(soup)
-...
-```
-
-> [!IMPORTANT]
-> 피싱메일 시스템은 회사 자산이어서 이를 응용한 보안 뉴스레터 발송 시스템으로 증적을 대체합니다 🙏
-
-### 2-2. 🎬 보안 뉴스레터 발송 시스템 시연 영상 (영상 길이 - 1분 50초)
-
-**시간이 없으시면 1:16 부터 보시면 됩니다! 감사합니다!**
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/EqdP1rJLXiI/0.jpg)](https://youtu.be/EqdP1rJLXiI)
-
-[🔙 목차로 돌아가기](https://github.com/fromitive/woowahan-tech#%EB%AA%A9%EC%B0%A8)
-
----
-
-## 🚣 3. 오랜 시간 몰입했던 경험 그리고 도전
-
-
-### 3-1. 🎬 인프라 취약점 진단 자동화 툴 시연 영상 (영상 길이 - 6분)
-
-**시간이 없으시면 4:00 부터 보시면 됩니다! 감사합니다!**
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/fCxAIZc_xj8/0.jpg)](https://youtu.be/fCxAIZc_xj8)
-
-[🔙 목차로 돌아가기](https://github.com/fromitive/woowahan-tech#%EB%AA%A9%EC%B0%A8)
-
----
-
-## 💡 4. 원하는 프로그래머 모습
-
-**🔗 블로그 링크 : https://fromitive.github.io/fromitive-blog/**
-
-**🔗 일기 : https://fromitive.github.io/fromitive-diary/**
-
-### 4-1. 🎬 토이프로젝트 - 백테스팅 툴 (영상 길이 - 2분 34초)
-
-**🔗 레포지토리 : https://github.com/fromitive/news-issuer**
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/8__cC-urP7A/0.jpg)](https://youtu.be/8__cC-urP7A)
-
-[🔙 목차로 돌아가기](https://github.com/fromitive/woowahan-tech#%EB%AA%A9%EC%B0%A8)
-
----
-
-## 🏁 End of Document
-
-긴 글 읽어주시고 제 자신을 돌아 볼 기회를 주셔서 감사합니다🙇🏻‍♂️
