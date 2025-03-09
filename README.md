@@ -67,7 +67,7 @@ Secure by Design 원칙 아래에 **사용자가 믿고 안심할 수 있는 서
 
     - RSS Feed(구글 알리미, 보안뉴스, 데일리시큐), 네이버 검색 API를 이용해 뉴스 크롤링 시스템 개벌
     - 수동 크롤링 방식을 개선하기 위해 GitLab CI/CD를 활용하여 오전 5시에 보안 뉴스 자동 크롤링 하도록 변경
-    - GitLab Pages 기능을 이용하여 뉴스를 선택할 수 있는 웹 페이지를 개발한 후 이메일을 전달하는 시스템을 개발하여 **뉴스 메일 배포시간 70% 단축**
+    - GitLab Pages 기능을 이용하여 뉴스를 선택할 수 있는 웹 페이지를 개발한 후 이메일을 전달하는 시스템을 개발하여 뉴스 메일 배포시간 70% 단축
     - Outlook을 사용할 때 발생할 수 있는 이미지 깨짐 현상 해결
 
 * 사용 기술 : ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SMTP](https://img.shields.io/badge/SMTP-FF9900?style=flat&logo=gmail&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-20232A?style=flat&logo=python&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat&logo=python&logoColor=white)
